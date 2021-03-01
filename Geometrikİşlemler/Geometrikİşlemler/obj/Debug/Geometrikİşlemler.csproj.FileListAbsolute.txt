@@ -1,0 +1,10 @@
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\bin\Debug\Geometrikİşlemler.exe.config
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\bin\Debug\Geometrikİşlemler.exe
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\bin\Debug\Geometrikİşlemler.pdb
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.csprojAssemblyReference.cache
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.Form1.resources
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.Properties.Resources.resources
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.csproj.GenerateResource.cache
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.csproj.CoreCompileInputs.cache
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.exe
+C:\Users\KAAN\source\repos\Geometrikİşlemler\Geometrikİşlemler\obj\Debug\Geometrikİşlemler.pdb
